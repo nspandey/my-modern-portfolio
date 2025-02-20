@@ -1,24 +1,26 @@
-import { Outfit, Ovo } from "next/font/google";
-import "./globals.css";
+import { Outfit, Ovo } from 'next/font/google';
+import './globals.css';
 
 const outfit = Outfit({
-  subsets:["latin"], weight: ["400", "500", "600", "700"] 
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
 });
 
 const ovo = Ovo({
-  subsets:["latin"], weight: ["400"] 
+  subsets: ['latin'],
+  weight: ['400'],
 });
 
 export const metadata = {
-  title: "Portfolio",
-  description: "",
+  title: 'Portfolio',
+  description: '',
 };
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="scroll-smooth">
+    <html lang='en' className='scroll-smooth'>
       <body
-        className={`${outfit.className} ${ovo.className} antialiased overflow-x-hidden dark:bg-darkTheme dark:text-white`}
+        className={`${outfit.className} ${ovo.className} antialiased leading-1 overflow-x-hidden dark:bg-darkTheme dark:text-white`}
       >
         {children}
       </body>
