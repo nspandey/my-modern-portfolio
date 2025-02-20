@@ -86,19 +86,19 @@ export const workData = [
   {
     title: 'Geo based app',
     description: 'Mobile App',
-    bgImage: './work-2.png',
+    bgImage: '/work-2.png',
     link:'',
   },
   {
     title: 'Photography site',
     description: 'Web Design',
-    bgImage: './work-3.png',
+    bgImage: '/work-3.png',
     link:'',
   },
   {
     title: 'UI/UX designing',
     description: 'UI/UX Design',
-    bgImage: './work-4.png',
+    bgImage: '/work-4.png',
     link:'',
   },
 ];
@@ -152,3 +152,6 @@ export const infoList = [
 ];
 
 export const toolsData = [assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git];
+// git remote add origin https://github.com/nspandey/my-modern-portfolio.git
+// git branch -M master
+// git push -u origin master
