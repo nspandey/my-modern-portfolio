@@ -36,5 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 git remote add origin https://github.com/nspandey/my-modern-portfolio.git
+
 git branch -M master
+
 git push -u origin master
