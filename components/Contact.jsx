@@ -51,16 +51,7 @@ const Contact = () => {
       >
         Get in touch
       </motion.h2>
-      <motion.p
-        className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'
-        initial={{ opacity: 0 }}
-        whileInView={{ opacity: 1 }}
-        transition={{ duration: 0.5, delay: 0.7 }}
-      >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores sed sint cumque odit?
-        Corrupti, esse earum! Ea voluptates sapiente recusandae harum esse ex veniam nam beatae
-        error quis, assumenda praesentium?
-      </motion.p>
+     
 
       <motion.form
         className='max-w-2xl mx-auto'

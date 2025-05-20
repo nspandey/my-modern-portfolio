@@ -6,8 +6,8 @@ import edu_icon_dark from './edu-icon-dark.png';
 import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import vscode from './vscode.png';
-import firebase from './firebase.png';
-import figma from './figma.png';
+import reactlogo from './React-logo.png';
+import nodejs from './node-js.png';
 import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
@@ -45,8 +45,8 @@ export const assets = {
   project_icon,
   project_icon_dark,
   vscode,
-  firebase,
-  figma,
+  reactlogo,
+  nodejs,
   git,
   mongodb,
   right_arrow_white,
@@ -127,7 +127,7 @@ export const infoList = [
   },
 ];
 
-export const toolsData = [assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git];
+export const toolsData = [assets.vscode, assets.reactlogo, assets.mongodb, assets.nodejs, assets.git];
 // git remote add origin https://github.com/nspandey/my-modern-portfolio.git
 // git branch -M master
 // git push -u origin master
