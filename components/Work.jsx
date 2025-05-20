@@ -34,9 +34,7 @@ const Work = ({ isdarkMode }) => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.7 }}
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores sed sint cumque odit?
-        Corrupti, esse earum! Ea voluptates sapiente recusandae harum esse ex veniam nam beatae
-        error quis, assumenda praesentium?
+        I’m a MERN stack developer specializing in building full-stack web applications. My work includes dynamic eCommerce websites, real-time weather apps, and product-based platforms with features like adding, updating, and deleting products. Using MongoDB, Express.js, React, and Node.js, I create responsive, secure, and user-friendly solutions tailored to business needs.
       </motion.p>
       <motion.div
         className='grid grid-cols-auto my-10 gap-5 dark:text-black'

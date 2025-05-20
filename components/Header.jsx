@@ -29,19 +29,9 @@ const Header = () => {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.5 }}
       >
-        Frontend wev developer based in India.
+        "MERN" stack developer based in India.
       </motion.h1>
 
-      <motion.p
-        className='max-w-2xl mx-auto font-Ovo'
-        initial={{ opacity: 0 }}
-        whileInView={{ opacity: 1 }}
-        transition={{ duration: 0.6, delay: 0.7 }}
-      >
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem dolorum dolor consectetur
-        laborum, porro vero necessitatibus enim odit harum culpa quam vitae explicabo delectus,
-        excepturi error dignissimos modi deserunt perspiciatis?
-      </motion.p>
 
       <div className='flex flex-cols sm:flex-wor items-center gap-4 mt-4'>
         <motion.a

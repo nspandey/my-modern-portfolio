@@ -49,12 +49,14 @@ const About = ({ isDarkMode }) => {
           transition={{ duration: 0.6, delay: 0.8 }}
         >
           <p className='mb-10 max-w-2xl font-Ovo'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam modi ipsam nihil
-            incidunt consequuntur non quae est, nam eum praesentium fugit voluptatum numquam quasi
-            sunt quibusdam, ipsum obcaecati laudantium impedit! Veniam ipsam tempore error dicta
-            ratione fugit repellat ad maiores, officia incidunt aut non tenetur natus voluptatem
-            nulla magnam neque vel distinctio pariatur a amet officiis consequatur obcaecati
-            numquam! Dolores?
+            Hello! I'm Nilesh Pandey, a passionate professional with expertise in Front-End &
+            Back-End Developer. With 1 Year of experience, I am committed to delivering exceptional
+            results and continually growing in my craft. Have gained good exposure to understand
+            various aspects of Full Stack Java Development through Master’s Program which has
+            developed a great sense of confidence at a very personal level. Hence, I seek a
+            challenging position in the area of Full Stack Java Developer, Front-End, Back-End,
+            Software Development & related fields where I can share my skills and expand my
+            capabilities further in the pursuit of progressive career advancement.
           </p>
 
           <motion.ul

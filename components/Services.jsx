@@ -34,9 +34,7 @@ const Services = () => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.7 }}
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores sed sint cumque odit?
-        Corrupti, esse earum! Ea voluptates sapiente recusandae harum esse ex veniam nam beatae
-        error quis, assumenda praesentium?
+        I offer modern, responsive, and high-performance web development services tailored to your needs. From sleek landing pages to dynamic full-stack applications, I use the latest technologies to build secure, user-friendly, and scalable websites. Whether you're launching a startup or upgrading an existing site, I ensure clean code, fast load times, and a seamless user experience across all devices.
       </motion.p>
       <motion.div
         className='grid grid-cols-auto gap-6 my-10'
