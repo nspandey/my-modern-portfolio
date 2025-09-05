@@ -87,7 +87,7 @@ export const workData = [
     title: 'E-commerce Website',
     description: 'Web Developer',
     bgImage: '/work-2.png',
-    link:'',
+    link:'https://ecommerce-frontend-tan-six.vercel.app/',
   },
   {
     title: 'Weather App',
