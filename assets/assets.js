@@ -93,7 +93,7 @@ export const workData = [
     title: 'Weather App',
     description: 'Web Developer',
     bgImage: '/work-3.png',
-    link:'',
+    link:'https://weather-app-ten-jet-31.vercel.app/',
   },
 ];
 
